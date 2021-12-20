@@ -9,7 +9,7 @@ namespace Test
     using System;
 
     /// <summary>
-    /// Fulfills all requirements for a triangle project
+    /// Fulfills all requirements for a triangle project 0
     /// </summary>
     public class Program
     {
